@@ -1,0 +1,136 @@
+body div.allposttag{
+	background: white;
+	height: 300px;
+	padding: none;
+	margin:none;
+	margin-bottom: 20px;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	overflow: hidden;
+}
+
+body form.tagform{
+	font-family: calibri;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+body h2.posttagh2{
+	font-size: 17px;
+	padding: 4px 8px;
+	margin: 0;
+	margin-bottom: 5px;
+	text-align: center;
+	line-height: 1.4;
+	border-bottom: 1px solid #eee;
+	font-family: calibri;
+	background: #0073aa;
+	color: white;
+}
+
+body h2.posttagh2 small{
+	font-size: 10px;
+}
+
+body h2.posttagh2 small a{
+	color: yellow;
+}
+
+
+body form .typekeyword{
+	border:none !important;
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+	height: 28px !important;
+	color: #444 !important;
+	border-bottom: 1px solid darkgray !important;
+	width: 100% !important;
+box-shadow: 1px 1px 6px 1px #4c4ce6  !important;
+text-align: center !important;
+
+}
+
+
+body small.tagoutputt{
+	display: inline-block;
+padding: .4em .5em;
+margin: 2px 2px 2px 0;
+font-size: 16px;
+line-height: 1;
+font-family: calibri;
+white-space: nowrap;
+text-decoration: none;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-radius: 3px;
+transition: all .15s ease-in-out;
+color: white;
+background-color: #0073aa;
+border-color: #cee0ed;
+}
+
+body small.tagoutput{
+	display: inline-block;
+padding: .4em .5em;
+margin: 2px 2px 2px 0;
+font-size: 16px;
+line-height: 1;
+font-family: calibri;
+white-space: nowrap;
+text-decoration: none;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-radius: 3px;
+transition: all .15s ease-in-out;
+color: white;
+background-color: #0073aa;
+border-color: #cee0ed;
+}
+body p.errormessages{
+		display: inline-block;
+padding: .4em .5em;
+margin: 2px 2px 2px 0;
+font-size: 16px;
+line-height: 1;
+font-family: calibri;
+white-space: nowrap;
+text-decoration: none;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-radius: 3px;
+transition: all .15s ease-in-out;
+color: #fff;
+background-color: #f6003d;
+border-color: #cee0ed;
+}
+body p.errormessages.more{
+	color: white;
+}
+div#txtHint{
+	width: 100%;
+	height: 230px;
+	display: block;
+	clear: both;
+	overflow: scroll;
+	text-align: center;
+	margin-top: 2px;
+}
+.tagkey{
+	text-align: center;
+}
+.tagmeh{
+		cursor: pointer;
+    font-size: initial;
+    font-family: calibri;
+    margin-left: 18px;
+    margin-right: 18px;
+	}
+	.tagmeh:hover{
+    color: white;
+    background: #0073aa;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+	}
